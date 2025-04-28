@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRlaXlkbHMwNzVtNHk3MHdvbTF5bG85ejZpdXZrZDZxMXg5amxqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d6p2TeOmY2tlmpB4HK/giphy.gif" width="250" />
+  <h1> Hi Dude..! </h1>
 </p>
